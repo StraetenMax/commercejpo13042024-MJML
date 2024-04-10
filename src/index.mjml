@@ -39,7 +39,7 @@
         </mj-section>
         <mj-section padding="0">
             <mj-column width="600px">
-                <mj-image padding="0" href="https://ecosup-commerce.fr" src="src/img/Commerce13042024.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 13 avril 2024"/>
+                <mj-image padding="0" href="https://ecosup-commerce.fr" src="https://img.mailinblue.com/3403292/images/content_library/original/6616fb30c43565cc747fffe2.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 13 avril 2024"/>
                </mj-column>
         </mj-section>
     <!--Section Titre-->
@@ -76,7 +76,7 @@
         <mj-section background-color="#ffffff">
             <mj-group>
             <mj-column width="50%" padding="8px">
-                <mj-image align="right" padding="0" src="src/img/MarieLaurence.jpg"  width="110px" alt="Marie Laurence Wallaert, responsable pédagogique Ecosup Commerce" />
+                <mj-image align="right" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/6616fb3812fbe9e05adb27e5.jpg"  width="110px" alt="Marie Laurence Wallaert, responsable pédagogique Ecosup Commerce" />
             </mj-column>
             <mj-column width="50%" padding="8px">
                 <mj-text padding="0" mj-class="d-text">
